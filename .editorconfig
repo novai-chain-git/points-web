@@ -1,0 +1,25 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# 表明这是最顶层的editorConfig配置文件
+root = true
+
+# 表示适用于所有文件
+[*]
+# 字符集 utf-8
+charset = utf-8
+# 缩进风格 space|tab
+indent_style = tab
+# 缩进大小是几个空格
+indent_size = 2
+# 控制换行类型 lf|cr|crlf
+end_of_line = lf
+# 去除行首任意空白字符
+trim_trailing_whitespace = true
+# 始终在文件末尾插入一个新行
+insert_final_newline = true
+
+# 表示仅 md 文件适用以下规则
+[*.md]
+max_line_length = off
+# 去除行首任意空白字符
+trim_trailing_whitespace = false

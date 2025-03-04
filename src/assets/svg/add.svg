@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g id="官网状态2"  transform="translate(-1518.000000, -1506.000000)">
+		<g id="编组-2"  transform="translate(1172.000000, 1090.000000)">
+			<g id="编组备份-2" fill="transparent" transform="translate(346.000000, 416.000000)">
+				<circle id="椭圆形" stroke="currentColor" stroke-width="1.5" cx="16.5" cy="16.5" r="15.75"></circle>
+				<rect id="矩形" fill="currentColor" x="9.16666667" y="15.5833333" width="14.6666667" height="3.66666667"></rect>
+				<polygon id="矩形备份-3" fill="currentColor"
+					transform="translate(16.500000, 17.416667) rotate(90.000000) translate(-16.500000, -17.416667) "
+					points="9.16666667 15.5833333 23.8333333 15.5833333 23.8333333 19.25 9.16666667 19.25"></polygon>
+			</g>
+		</g>
+	</g>
+</svg>
