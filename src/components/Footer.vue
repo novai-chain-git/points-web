@@ -10,7 +10,7 @@
                 <div class="  md:flex md:justify-between md:!text-left text-center">
                     <div>
                         <img class="w-[92px] h-[42px] inline-block md:!block" src="@/assets/images/logo.svg" alt="" />
-                        <div class="mt-[15px]">A Bitcoin Layer 2 integrating Al and gaming</div>
+                        <div class="mt-[15px]">Novai Chain is a next-generation Layer 1 AI public blockchain.</div>
                         <ul class="flex  mt-[20px]  justify-center mb-[5px] md:!justify-start md:mt-[76px] md:!mb-[0]">
                             <li class="mr-[27px]">
                                 <a href="mailto:marketing@novaichain.co" target="_blank">
